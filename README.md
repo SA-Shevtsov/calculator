@@ -1,4 +1,4 @@
-Calculator (HTML, CSS, JS)
+Calculator
 =
 ![img](./img/Calculator%20(HTML,%20CSS,%20JS).jpg)
 
